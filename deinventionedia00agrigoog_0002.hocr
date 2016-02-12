@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deinventionedia00agrigoog_0002.png"; bbox 0 0 3704 5376; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1521 396 2490">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1521 396 2490">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1521 396 2490; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 1521 396 2490; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1606 2929 2248 3299">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1606 2929 2248 3299">
+     <span class='ocr_line' id='line_1_2' title="bbox 1606 2929 2248 3299; baseline 0 2077"><span class='ocrx_word' id='word_1_2' title='bbox 1606 2929 2248 3299; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1058 3311 2316 3368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1058 3311 2316 3368">
+     <span class='ocr_line' id='line_1_3' title="bbox 1058 3311 2316 3368; baseline -0.004 -2"><span class='ocrx_word' id='word_1_3' title='bbox 1058 3317 1372 3368; x_wconf 61' lang='lat' dir='ltr'><strong>ARTIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1461 3311 1891 3362; x_wconf 52' lang='lat' dir='ltr'><strong>seusana</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1974 3315 2316 3361; x_wconf 65' lang='lat' dir='ltr'>vunnu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1061 3382 2317 3406">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1061 3382 2317 3406">
+     <span class='ocr_line' id='line_1_4' title="bbox 1061 3382 2317 3406; baseline -0.003 -2"><span class='ocrx_word' id='word_1_6' title='bbox 1061 3382 2317 3406; x_wconf 60' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
